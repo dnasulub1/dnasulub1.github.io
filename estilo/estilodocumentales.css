@@ -1,0 +1,13 @@
+html{
+    background-color:#aedddd;
+}
+#titulo1{
+    display: inline-block;
+    float:inherit;
+    width: 74%;
+    border: double;
+    text-align: center;
+    margin: 30px;
+    color:#f3a8c2;
+    font-size: 50px;
+}

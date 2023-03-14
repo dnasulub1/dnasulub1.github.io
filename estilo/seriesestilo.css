@@ -1,0 +1,19 @@
+html{
+    font-size: orange;
+}
+#logo1{
+    display: inline-block;
+    width: 12%;
+    float: left;
+    clear:both;
+    padding:10px;
+}
+#titulo{
+    display:inline-block;
+    width: 70%;
+    text-align: center;
+    background: #f3a8c2;
+    color: white;
+    float:right;
+    
+}
